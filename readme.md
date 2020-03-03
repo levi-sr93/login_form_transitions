@@ -10,7 +10,7 @@
 #CLone the files to your machine
 git clone https://github.com/levi-sr93/login_form_transitions.git
 
-#open the folder in the login.html
+#open the folder and click on login.html
 
 ```
 
